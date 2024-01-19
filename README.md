@@ -34,5 +34,5 @@ Estas son algunas de las cosas que me gustan y que disfruto hacer en mi tiempo l
 
 Puedes encontrarme en las siguientes redes sociales:
 
-- LinkedIn: [Conéctate conmigo para ver mi perfil profesional y mi experiencia laboral. 💼](https://www.linkedin.com/in/juan-pablo-loaiza-nieto-162573264/)
-- Instagram: [Sígueme para ver mis fotos y vídeos sobre mis viajes, hobbies y vida personal. 📷](https://www.instagram.com/juanploaizan?igsh=OXMxdmRqdG1sMGpm)
+- [LinkedIn](https://www.linkedin.com/in/juan-pablo-loaiza-nieto-162573264/): Conéctate conmigo para ver mi perfil profesional y mi experiencia laboral. 💼
+- [Instagram](https://www.instagram.com/juanploaizan?igsh=OXMxdmRqdG1sMGpm): Sígueme para ver mis fotos y vídeos sobre mis viajes, hobbies y vida personal. 📷
