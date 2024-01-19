@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hola, soy Juan Pablo Loaiza Nieto 👋
 
-<!--
-**juanploaizan/juanploaizan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí 🚀
 
-Here are some ideas to get you started:
+Soy un desarrollador Java con tres años de experiencia en la concepción, diseño y despliegue de aplicaciones de gran envergadura. Mi sólido conocimiento en patrones de diseño y arquitecturas de software se traduce en soluciones eficientes y escalables. Desde la creación de conceptos hasta la implementación exitosa, estoy listo para llevar mi experiencia al siguiente nivel y contribuir al éxito de proyectos ambiciosos en su equipo de desarrollo. 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mi educación 🎓
+
+- Ingeniería de sistemas y computación. Universidad del Quindío. 2020 - Actualidad. Estudiante de noveno semestre. 🎓
+- Bootcamp backend developer. Makaia. 6 meses duración. 🚀
+
+## Mis habilidades 🛠️
+
+- Lenguajes de programación: Java ☕, HTML, CSS, JavaScript 🌐
+- Frameworks y librerías: Spring 🍃, React ⚛️, NextJS 🚀, Tailwind 🌈
+- Bases de datos: SQL 🐬, No SQL 🍃
+- Herramientas: Docker 🐳, Cloud Computing ☁️, Postman 📬, GIT 🐙
